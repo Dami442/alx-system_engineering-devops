@@ -1,1 +1,1 @@
-This script creates alias ls with value *rm
+Practices on shell variables and expansions
